@@ -62,3 +62,9 @@ public class ColorDemo {
 	}
 }
 
+//what does printf do?
+//prints something with format: 
+//%3s:
+//%: Denotes the start of a format specifier.
+//3: This indicates that the output will take at least 3 spaces. If the value is shorter than 3 characters, it will be right-aligned and padded with spaces on the left.
+//s: The format specifier for a string. It converts the argument to a string.
